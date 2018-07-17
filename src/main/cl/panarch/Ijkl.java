@@ -1,4 +1,4 @@
-package cl.panarch.main;
+package main.cl.panarch;
 
 public class Ijkl {
 	static String s = "";

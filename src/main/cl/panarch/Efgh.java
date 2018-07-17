@@ -1,4 +1,4 @@
-package cl.panarch.main;
+package main.cl.panarch;
 
 public class Efgh extends Abcd{
  int x = 80;

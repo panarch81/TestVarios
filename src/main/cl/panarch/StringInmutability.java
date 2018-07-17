@@ -1,4 +1,4 @@
-package cl.panarch.main;
+package main.cl.panarch;
 
 import java.util.HashSet;
 import java.util.List;
@@ -15,7 +15,7 @@ public class StringInmutability {
 		StringInmutability inmut = new StringInmutability();
 		inmut.setOrigWord("Happy ");
 		inmut.setNewWord("Friday");
-		inmut.callConcatOnString(inmut.getOrigWord(), inmut.getNewWord());
+		System.out.println(inmut.callConcatOnString(inmut.getOrigWord(), inmut.getNewWord()));
 		
 		String x = "este es X";
 		System.out.println(x.toString());//este es X

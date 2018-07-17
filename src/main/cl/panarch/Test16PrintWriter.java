@@ -1,4 +1,4 @@
-package cl.panarch.main;
+package main.cl.panarch;
 
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;

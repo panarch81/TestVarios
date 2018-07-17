@@ -1,4 +1,4 @@
-package cl.panarch.main;
+package main.cl.panarch;
 
 public class OperatorsOnArrays {
 	enum dias {M,T,TR};
